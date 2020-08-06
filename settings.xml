@@ -277,4 +277,8 @@ under the License.
     <activeProfile>anotherAlwaysActiveProfile</activeProfile>
   </activeProfiles>
   -->
+   <activeProfiles>
+    <!--make the profile active all the time -->
+    <activeProfile>release</activeProfile>
+  </activeProfiles>
 </settings>
